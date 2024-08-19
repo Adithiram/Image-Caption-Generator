@@ -40,7 +40,7 @@ The generated captions are compared to the actual captions from the dataset and 
 
 ![image](https://github.com/user-attachments/assets/0158b565-f73c-447e-957a-4551351a91ae)
 
-![image](https://github.com/user-attachments/assets/8a2ac9bc-3131-431d-b92e-1d532030ded0)
+
 
 
 
