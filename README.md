@@ -24,7 +24,7 @@ Architecture model diagram
 
 We utilized a pre-trained VGG16 network for our analysis. The VGG16 model has been obtained from the following source: https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5
 
-The VGG16 model is designed to process input images of dimensions (224, 224, 3) through a series of deep Convolutional Neural Network (CNN) layers, ultimately producing a tensor of shape (?, 1000), representing 1,000 different classes
+The VGG16 model is designed to process input images of dimensions (224, 224, 3) through a series of deep Convolutional Neural Network (CNN) layers, ultimately producing a tensor of shape (?, 1000), representing 1,000 different classes.
 
 # LSTM
 
